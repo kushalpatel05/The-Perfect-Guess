@@ -2,11 +2,11 @@ A simple Python project where the user tries to guess a random number between 1 
 
 # How It Works?
 The program generates a random number.
-The user keeps guessing until they get it right.
+<br>The user keeps guessing until they get it right.
 Hints are given:
 - “Higher number please...”
 - “Lower number please...”
-The total number of attempts is shown at the end.
+<br>The total number of attempts is shown at the end.
 
 # Concepts Used
 random.randint() function
